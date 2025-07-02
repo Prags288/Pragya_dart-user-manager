@@ -29,4 +29,4 @@ dependencies:
 
 # Terminal Output images:
 
-![UserManagerApp Screenshot](assets/terminal-screenshot.png)
+![UserManagerApp Screenshot](images/terminal-screenshot.png)
